@@ -1,0 +1,2 @@
+画画工具：http://fabricjs.com/demos/
+裁剪工具：https://fengyuanchen.github.io/cropperjs/
