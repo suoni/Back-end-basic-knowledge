@@ -1,2 +1,3 @@
-»­»­¹¤¾ß£ºhttp://fabricjs.com/demos/
-²Ã¼ô¹¤¾ß£ºhttps://fengyuanchen.github.io/cropperjs/
+Â»Â­Â»Â­Â¹Â¤Â¾ÃŸÂ£Âºhttp://fabricjs.com/demos/
+Â²ÃƒÂ¼Ã´Â¹Â¤Â¾ÃŸÂ£Âºhttps://fengyuanchen.github.io/cropperjs/
+https://github.com/nhn/tui.image-editor
